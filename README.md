@@ -11,4 +11,4 @@ The game is controlled by mouse only - swipe the mouse from side to side to cont
 Steffen Titken Haferbier
 
 #Screenshots#
-![Falling Down](http://haferbier.com/img/ "Falling Down")
+![Falling Down](http://haferbier.com/img/fallingdown.PNG "Falling Down")
