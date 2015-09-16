@@ -6,6 +6,7 @@ The theme for JS13KGames 2015 was 'reversed'. Being new to the field of JavaScri
 
 # Controls
 The game is controlled by mouse only - swipe the mouse from side to side to control our hero.
+(It may be a good idea to use a mouse and not a touchpad for controlling the game properly)
 
 # Credits
 Steffen Titken Haferbier
