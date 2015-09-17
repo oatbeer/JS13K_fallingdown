@@ -21,8 +21,7 @@
     c.height = canvasHeight;
 
     /**
-     * Clear canvas - it is necessary to clear the canvas in order to draw something
-     * In this function we will also draw a blue background
+     * Clear canvas
      */
     var clear = function(){
         var myGradient = ctx.createLinearGradient(0, c.height, 0, 0);
